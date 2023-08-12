@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """Unit testing module for the Review class"""
 from models.base_model import BaseModel
 from models.review import Review

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """Unit testing module for the Place class"""
 from models.base_model import BaseModel
 from models.place import Place

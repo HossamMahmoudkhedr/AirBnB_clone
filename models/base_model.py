@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 ''' Module defining the BaseModel class for other classes '''
 import sys
 import os
