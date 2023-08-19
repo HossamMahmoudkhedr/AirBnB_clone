@@ -47,3 +47,9 @@
 .filters .locations {
 	border-right: 1px solid #dddddd;
 }
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}

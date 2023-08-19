@@ -102,3 +102,9 @@
 	font-size: 12px;
 	margin-bottom: 10px;
 }
+
+footer {
+	position: static;
+	left: 0;
+	bottom: 0;
+}

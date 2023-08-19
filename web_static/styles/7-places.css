@@ -22,3 +22,9 @@
 	font-size: 30px;
 	text-align: center;
 }
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}

@@ -82,3 +82,9 @@ ul li {
 .filters .amenities:hover .popover {
 	display: block;
 }
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
